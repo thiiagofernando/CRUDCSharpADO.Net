@@ -116,7 +116,6 @@
     <Content Include="Default.aspx" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
-    <Content Include="Pages\Cadastro.aspx" />
     <Content Include="Pages\Consulta.aspx" />
     <Content Include="Pages\Detalhes.aspx" />
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
@@ -144,13 +143,6 @@
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
-    </Compile>
-    <Compile Include="Pages\Cadastro.aspx.cs">
-      <DependentUpon>Cadastro.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Pages\Cadastro.aspx.designer.cs">
-      <DependentUpon>Cadastro.aspx</DependentUpon>
     </Compile>
     <Compile Include="Pages\Consulta.aspx.cs">
       <DependentUpon>Consulta.aspx</DependentUpon>
