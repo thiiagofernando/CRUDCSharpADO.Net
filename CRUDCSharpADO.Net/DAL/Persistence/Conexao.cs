@@ -29,7 +29,7 @@ namespace DAL.Persistence
            }
        }
 
-       protected void FecharConexao()
+        protected void FecharConexao()
        {
            try
            {

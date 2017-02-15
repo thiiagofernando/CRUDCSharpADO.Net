@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DAL.Model
 {
-    class Pessoa
+   public class Pessoa
     {
         //Declaracao de Atributos Classe Pessoa
         public int Codigo { get; set; }
